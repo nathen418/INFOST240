@@ -1,6 +1,9 @@
 # INFOST240
 A repo of all the code written for my **Web Design 1 (INFOST240) Fall 2021** class at the University of Wisconsin Milwaukee. Kept as an archive. The assignment sheets and instructions for all code is not shared, only sample code answers. 
 
+# Link to SOIS website:
+- [https://goldsbo3.uwmsois.com/](https://goldsbo3.uwmsois.com/)
+
 
 ## Questions?
 - **Contact me on discord at nathen418#0002 or join my discord server at the link below**
