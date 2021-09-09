@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
-
 .grid-2{
     display: grid;
     grid-template-columns: repeat(2,1fr);
@@ -11,6 +10,20 @@ body{
     background-color: #101214;
     color: #7A7C80;
 
+}
+.tbl td {
+    vertical-align: top;
+    text-align: left;
+}
+.bitmap img{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
+.svg img{
+    width: 300px;
+    height: 300px;
+    margin: auto;
 }
 .section-1{
     color: #fff;
@@ -43,13 +56,6 @@ body{
     padding-bottom: 10px;
     margin:0;
 }
-.section-2 li{
-    font-size: 1.1rem;
-    margin:0;
-    content:"•";
-    color:white;
-}
-
 .section-2 a{
     display: block;
     padding: 5px;
@@ -65,19 +71,4 @@ body{
     color: #ff3505;
     cursor: pointer;
     transition: 0.2s;
-}
-/* Stack the sections if the screen is too small */
-@media(max-width:780px){
-    .grid-2{
-        grid-template-columns: 1fr;
-    }
-    .section-1{
-        padding:0;
-        padding-top: 5rem;
-    }
-    .section-2{
-        padding: 0;
-        padding-left: 1.5rem;
-        padding-top: 2rem;
-    }
 }

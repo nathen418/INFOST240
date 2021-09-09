@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
-
 .grid-2{
     display: grid;
     grid-template-columns: repeat(2,1fr);
@@ -43,11 +42,8 @@ body{
     padding-bottom: 10px;
     margin:0;
 }
-.section-2 li{
-    font-size: 1.1rem;
-    margin:0;
-    content:"•";
-    color:white;
+.section-2 label, option{
+  color:#fff;
 }
 
 .section-2 a{
@@ -66,18 +62,11 @@ body{
     cursor: pointer;
     transition: 0.2s;
 }
-/* Stack the sections if the screen is too small */
-@media(max-width:780px){
-    .grid-2{
-        grid-template-columns: 1fr;
-    }
-    .section-1{
-        padding:0;
-        padding-top: 5rem;
-    }
-    .section-2{
-        padding: 0;
-        padding-left: 1.5rem;
-        padding-top: 2rem;
-    }
-}
+.color:hover {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
