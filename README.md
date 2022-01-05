@@ -9,11 +9,7 @@ A repo of all the code written for my **Web Design 1 (INFOST240) Fall 2021** cla
 - no pull requests will be merged
 - no comments on files will be answered.
 
-## Join my discord server:
-https://dsc.gg/antaresnetwork
-
 ## License
-
 - Refer to the license file
 
 ## Important Note:
