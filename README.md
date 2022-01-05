@@ -4,20 +4,18 @@ A repo of all the code written for my **Web Design 1 (INFOST240) Fall 2021** cla
 # Link to SOIS website:
 - [https://goldsbo3.uwmsois.com/](https://goldsbo3.uwmsois.com/)
 
-
-## Questions?
-- **Contact me on discord at nathen418#0002 or join my discord server at the link below**
-
 ## Modifications
 - no issues will be resolved
-- no pull requests wil be merged
+- no pull requests will be merged
 - no comments on files will be answered.
-- If you have a question, contact me through my discord
 
 ## Join my discord server:
-
 https://dsc.gg/antaresnetwork
 
 ## License
 
 - Refer to the license file
+
+## Important Note:
+Work uploaded to this repository is in no way intended to enable plagiarism, cheating, or any other forms of academic dishonesty. Code and other files here are meant purely for educational use and for me (Nate) to show off and be proud of my work. I take no responsibility if students copy my work and display it as their own. 
+If you are an instructor, school official, etc and you would like for me to remove this repository from public view, please contact me privately at [nathen418@playantares.com](mailto:nathen418@playantares.com)
